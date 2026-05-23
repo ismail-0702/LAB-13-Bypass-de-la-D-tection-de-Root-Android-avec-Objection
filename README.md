@@ -29,7 +29,7 @@ bashpip install --upgrade objection
 On vérifie ensuite que l'installation s'est bien passée :
 bashobjection --version
 objection --help
-<img width="976" height="280" alt="Installation Objection vérifiée" src="https://github.com/user-attachments/assets/30d30c3b-59fc-49f0-a957-5c1bc4e8df60" />
+
 
 Étape 2 — Préparation de l'émulateur Android
 Vérification de la connexion ADB
