@@ -7,7 +7,7 @@ Lab réalisé dans un environnement contrôlé à des fins strictement pédagogi
 
 Objectifs
 
-Installer Objection et Frida côté PC.
+Installer Objection et Frida côté PC
 Déployer et lancer frida-server sur l'émulateur Android.
 Vérifier la communication entre le PC et l'appareil.
 Attacher Objection à l'application cible.
